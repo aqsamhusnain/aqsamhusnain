@@ -1,4 +1,4 @@
-# JEWAAA - Real Estate Discovery Website
+# Jiwaaa - Real Estate Discovery Website
 
 A modern, responsive real estate discovery website built with HTML, Tailwind CSS, and JavaScript.
 
